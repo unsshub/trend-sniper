@@ -1,0 +1,879 @@
+{
+  "tiktok": {
+    "platform": "tiktok",
+    "totalGrowth": 45,
+    "trendingTopics": [
+      "lifehacks",
+      "dating",
+      "cooking",
+      "fitness",
+      "comedy",
+      "dance",
+      "gaming",
+      "tech",
+      "music",
+      "fashion",
+      "travel",
+      "education"
+    ],
+    "videos": [
+      {
+        "id": "tt1",
+        "platform": "tiktok",
+        "title": "This ONE hack changed my life forever",
+        "author": "@lifehackpro",
+        "views": 250000,
+        "viewsGrowth": 89,
+        "likes": 45000,
+        "shares": 12000,
+        "comments": 3400,
+        "duration": 15,
+        "category": "lifehacks",
+        "thumbnail": "https://picsum.photos/seed/tt1/400/600",
+        "hook": "Wait for it... this is INSANE",
+        "caption": "I can't believe this actually works! \ud83c\udfaf",
+        "hashtags": [
+          "lifehacks",
+          "productivity",
+          "viral"
+        ],
+        "postedAt": "2026-05-02T08:30:00Z",
+        "viralScore": 92,
+        "videoUrl": "https://tiktok.com/@lifehackpro/1",
+        "isBookmarked": false
+      },
+      {
+        "id": "tt2",
+        "platform": "tiktok",
+        "title": "She said YES! Here's how",
+        "author": "@datingmaster",
+        "views": 890000,
+        "viewsGrowth": 234,
+        "likes": 156000,
+        "shares": 45000,
+        "comments": 12000,
+        "duration": 30,
+        "category": "dating",
+        "thumbnail": "https://picsum.photos/seed/tt2/400/600",
+        "hook": "3 words changed everything",
+        "caption": "The secret to proposals that always work \ud83d\udc8d",
+        "hashtags": [
+          "datingadvice",
+          "proposal",
+          "love"
+        ],
+        "postedAt": "2026-05-02T06:15:00Z",
+        "viralScore": 98,
+        "videoUrl": "https://tiktok.com/@datingmaster/2",
+        "isBookmarked": false
+      },
+      {
+        "id": "tt3",
+        "platform": "tiktok",
+        "title": "5 minute meal that costs $2",
+        "author": "@cheaprecipes",
+        "views": 567000,
+        "viewsGrowth": 178,
+        "likes": 98000,
+        "shares": 34000,
+        "comments": 8900,
+        "duration": 45,
+        "category": "cooking",
+        "thumbnail": "https://picsum.photos/seed/tt3/400/600",
+        "hook": "You've been cooking rice WRONG",
+        "caption": "Budget meal prep that tastes gourmet \ud83c\udf5d",
+        "hashtags": [
+          "cooking",
+          "budgetmeals",
+          "mealprep"
+        ],
+        "postedAt": "2026-05-02T04:00:00Z",
+        "viralScore": 95,
+        "videoUrl": "https://tiktok.com/@cheaprecipes/3",
+        "isBookmarked": false
+      },
+      {
+        "id": "tt4",
+        "platform": "tiktok",
+        "title": "10 min ab workout NO EQUIPMENT",
+        "author": "@fitnessfanatic",
+        "views": 432000,
+        "viewsGrowth": 145,
+        "likes": 78000,
+        "shares": 28000,
+        "comments": 6700,
+        "duration": 60,
+        "category": "fitness",
+        "thumbnail": "https://picsum.photos/seed/tt4/400/600",
+        "hook": "Transform your body in 10 minutes",
+        "caption": "No gym, no equipment, no excuses \ud83d\udcaa",
+        "hashtags": [
+          "fitness",
+          "workout",
+          "abs"
+        ],
+        "postedAt": "2026-05-02T03:30:00Z",
+        "viralScore": 88,
+        "videoUrl": "https://tiktok.com/@fitnessfanatic/4",
+        "isBookmarked": false
+      },
+      {
+        "id": "tt5",
+        "platform": "tiktok",
+        "title": "POV: You're in a horror game",
+        "author": "@comedyking",
+        "views": 1200000,
+        "viewsGrowth": 312,
+        "likes": 234000,
+        "shares": 67000,
+        "comments": 15000,
+        "duration": 20,
+        "category": "comedy",
+        "thumbnail": "https://picsum.photos/seed/tt5/400/600",
+        "hook": "The jumpscare that got me banned",
+        "caption": "My mom walked in during this \ud83d\ude02",
+        "hashtags": [
+          "comedy",
+          "horror",
+          "pov"
+        ],
+        "postedAt": "2026-05-02T02:00:00Z",
+        "viralScore": 99,
+        "videoUrl": "https://tiktok.com/@comedyking/5",
+        "isBookmarked": false
+      },
+      {
+        "id": "tt6",
+        "platform": "tiktok",
+        "title": "New Fortnite dance goes viral",
+        "author": "@gamerlife",
+        "views": 980000,
+        "viewsGrowth": 267,
+        "likes": 167000,
+        "shares": 89000,
+        "comments": 11000,
+        "duration": 25,
+        "category": "gaming",
+        "thumbnail": "https://picsum.photos/seed/tt6/400/600",
+        "hook": "This emote is taking over",
+        "caption": "Learn this dance in 10 seconds \ud83d\udd7a",
+        "hashtags": [
+          "gaming",
+          "fortnite",
+          "dance"
+        ],
+        "postedAt": "2026-05-02T01:00:00Z",
+        "viralScore": 97,
+        "videoUrl": "https://tiktok.com/@gamerlife/6",
+        "isBookmarked": false
+      },
+      {
+        "id": "tt7",
+        "platform": "tiktok",
+        "title": "AI tool writes entire app in minutes",
+        "author": "@techwizard",
+        "views": 1500000,
+        "viewsGrowth": 400,
+        "likes": 300000,
+        "shares": 120000,
+        "comments": 20000,
+        "duration": 45,
+        "category": "tech",
+        "thumbnail": "https://picsum.photos/seed/tt7/400/600",
+        "hook": "This will replace developers",
+        "caption": "AI is getting scary good \ud83e\udd16",
+        "hashtags": [
+          "ai",
+          "tech",
+          "coding"
+        ],
+        "postedAt": "2026-05-02T00:30:00Z",
+        "viralScore": 100,
+        "videoUrl": "https://tiktok.com/@techwizard/7",
+        "isBookmarked": false
+      },
+      {
+        "id": "tt8",
+        "platform": "tiktok",
+        "title": "Singing my new song live",
+        "author": "@musicmaker",
+        "views": 800000,
+        "viewsGrowth": 180,
+        "likes": 130000,
+        "shares": 50000,
+        "comments": 9000,
+        "duration": 60,
+        "category": "music",
+        "thumbnail": "https://picsum.photos/seed/tt8/400/600",
+        "hook": "The chorus will give you chills",
+        "caption": "My debut single is finally here \ud83c\udfb5",
+        "hashtags": [
+          "music",
+          "original",
+          "singer"
+        ],
+        "postedAt": "2026-05-02T00:00:00Z",
+        "viralScore": 94,
+        "videoUrl": "https://tiktok.com/@musicmaker/8",
+        "isBookmarked": false
+      },
+      {
+        "id": "tt9",
+        "platform": "tiktok",
+        "title": "Thrifted outfit of the day",
+        "author": "@fashionista",
+        "views": 620000,
+        "viewsGrowth": 130,
+        "likes": 110000,
+        "shares": 38000,
+        "comments": 7800,
+        "duration": 20,
+        "category": "fashion",
+        "thumbnail": "https://picsum.photos/seed/tt9/400/600",
+        "hook": "All under $20 total",
+        "caption": "Thrifted fits that look high end \ud83d\udc57",
+        "hashtags": [
+          "fashion",
+          "thrifted",
+          "ootd"
+        ],
+        "postedAt": "2026-05-01T23:00:00Z",
+        "viralScore": 90,
+        "videoUrl": "https://tiktok.com/@fashionista/9",
+        "isBookmarked": false
+      },
+      {
+        "id": "tt10",
+        "platform": "tiktok",
+        "title": "Hidden gems in Tokyo",
+        "author": "@travelbug",
+        "views": 750000,
+        "viewsGrowth": 210,
+        "likes": 125000,
+        "shares": 45000,
+        "comments": 10000,
+        "duration": 35,
+        "category": "travel",
+        "thumbnail": "https://picsum.photos/seed/tt10/400/600",
+        "hook": "You'll never find this on Google",
+        "caption": "Secret spots in Tokyo \ud83d\uddfc",
+        "hashtags": [
+          "travel",
+          "tokyo",
+          "hiddengems"
+        ],
+        "postedAt": "2026-05-01T22:00:00Z",
+        "viralScore": 93,
+        "videoUrl": "https://tiktok.com/@travelbug/10",
+        "isBookmarked": false
+      },
+      {
+        "id": "tt11",
+        "platform": "tiktok",
+        "title": "Learn Spanish in 30 seconds",
+        "author": "@langmaster",
+        "views": 430000,
+        "viewsGrowth": 98,
+        "likes": 67000,
+        "shares": 22000,
+        "comments": 5400,
+        "duration": 30,
+        "category": "education",
+        "thumbnail": "https://picsum.photos/seed/tt11/400/600",
+        "hook": "The one phrase you need",
+        "caption": "Spanish for beginners \ud83c\uddea\ud83c\uddf8",
+        "hashtags": [
+          "education",
+          "spanish",
+          "language"
+        ],
+        "postedAt": "2026-05-01T21:00:00Z",
+        "viralScore": 86,
+        "videoUrl": "https://tiktok.com/@langmaster/11",
+        "isBookmarked": false
+      }
+    ],
+    "patterns": {
+      "hookTypes": [
+        {
+          "pattern": "Numbers/List",
+          "frequency": 34
+        },
+        {
+          "pattern": "Shocking Statement",
+          "frequency": 28
+        },
+        {
+          "pattern": "Question Hook",
+          "frequency": 22
+        }
+      ],
+      "captionLengths": [
+        {
+          "range": "0-50 chars",
+          "count": 45
+        },
+        {
+          "range": "51-150 chars",
+          "count": 120
+        },
+        {
+          "range": "150+ chars",
+          "count": 35
+        }
+      ],
+      "topHashtags": [
+        {
+          "tag": "#fyp",
+          "count": 234
+        },
+        {
+          "tag": "#viral",
+          "count": 189
+        },
+        {
+          "tag": "#trending",
+          "count": 156
+        }
+      ],
+      "peakPostingTimes": [
+        "7-9 PM",
+        "12-2 PM",
+        "6-8 AM"
+      ],
+      "averageEngagementRate": 4.7
+    }
+  },
+  "instagram": {
+    "platform": "instagram",
+    "totalGrowth": 32,
+    "trendingTopics": [
+      "fashion",
+      "travel",
+      "food",
+      "fitness",
+      "art",
+      "photography",
+      "music",
+      "gaming",
+      "tech"
+    ],
+    "videos": [
+      {
+        "id": "ig1",
+        "platform": "instagram",
+        "title": "Morning routine that changed my life",
+        "author": "@wellnessguru",
+        "views": 180000,
+        "viewsGrowth": 67,
+        "likes": 32000,
+        "shares": 8900,
+        "comments": 2100,
+        "duration": 30,
+        "category": "fitness",
+        "thumbnail": "https://picsum.photos/seed/ig1/400/600",
+        "hook": "Stop waking up like this",
+        "caption": "5 AM routine that DOUBLED my productivity \ud83c\udf05",
+        "hashtags": [
+          "morningroutine",
+          "wellness",
+          "productivity"
+        ],
+        "postedAt": "2026-05-02T07:00:00Z",
+        "viralScore": 85,
+        "videoUrl": "https://instagram.com/reel/1",
+        "isBookmarked": false
+      },
+      {
+        "id": "ig2",
+        "platform": "instagram",
+        "title": "OOTD: Summer outfits under $50",
+        "author": "@fashionicon",
+        "views": 345000,
+        "viewsGrowth": 123,
+        "likes": 56000,
+        "shares": 15000,
+        "comments": 4500,
+        "duration": 15,
+        "category": "fashion",
+        "thumbnail": "https://picsum.photos/seed/ig2/400/600",
+        "hook": "The outfit that stopped traffic",
+        "caption": "Affordable summer fits that look expensive \ud83d\udc85",
+        "hashtags": [
+          "fashion",
+          "ootd",
+          "summerstyle"
+        ],
+        "postedAt": "2026-05-02T05:30:00Z",
+        "viralScore": 91,
+        "videoUrl": "https://instagram.com/reel/2",
+        "isBookmarked": false
+      },
+      {
+        "id": "ig3",
+        "platform": "instagram",
+        "title": "Hidden gem restaurant in Paris",
+        "author": "@travelbug",
+        "views": 234000,
+        "viewsGrowth": 89,
+        "likes": 45000,
+        "shares": 12000,
+        "comments": 3400,
+        "duration": 45,
+        "category": "travel",
+        "thumbnail": "https://picsum.photos/seed/ig3/400/600",
+        "hook": "You've been to Paris WRONG",
+        "caption": "The best croissant of my life \ud83e\udd50",
+        "hashtags": [
+          "paris",
+          "travel",
+          "foodie"
+        ],
+        "postedAt": "2026-05-02T10:00:00Z",
+        "viralScore": 87,
+        "videoUrl": "https://instagram.com/reel/3",
+        "isBookmarked": false
+      },
+      {
+        "id": "ig4",
+        "platform": "instagram",
+        "title": "Acrylic pour painting tutorial",
+        "author": "@artstudio",
+        "views": 167000,
+        "viewsGrowth": 78,
+        "likes": 34000,
+        "shares": 9800,
+        "comments": 2800,
+        "duration": 60,
+        "category": "art",
+        "thumbnail": "https://picsum.photos/seed/ig4/400/600",
+        "hook": "This technique will blow your mind",
+        "caption": "Easy art anyone can do \ud83c\udfa8",
+        "hashtags": [
+          "art",
+          "painting",
+          "diy"
+        ],
+        "postedAt": "2026-05-02T09:15:00Z",
+        "viralScore": 83,
+        "videoUrl": "https://instagram.com/reel/4",
+        "isBookmarked": false
+      },
+      {
+        "id": "ig5",
+        "platform": "instagram",
+        "title": "Making ramen from scratch",
+        "author": "@chefmaster",
+        "views": 456000,
+        "viewsGrowth": 189,
+        "likes": 87000,
+        "shares": 23000,
+        "comments": 6700,
+        "duration": 45,
+        "category": "food",
+        "thumbnail": "https://picsum.photos/seed/ig5/400/600",
+        "hook": "The secret ingredient changes everything",
+        "caption": "Homemade ramen better than restaurant \ud83c\udf5c",
+        "hashtags": [
+          "cooking",
+          "ramen",
+          "fromscratch"
+        ],
+        "postedAt": "2026-05-02T08:45:00Z",
+        "viralScore": 94,
+        "videoUrl": "https://instagram.com/reel/5",
+        "isBookmarked": false
+      },
+      {
+        "id": "ig6",
+        "platform": "instagram",
+        "title": "Guitar cover of latest hit",
+        "author": "@musiclover",
+        "views": 560000,
+        "viewsGrowth": 155,
+        "likes": 98000,
+        "shares": 30000,
+        "comments": 8200,
+        "duration": 60,
+        "category": "music",
+        "thumbnail": "https://picsum.photos/seed/ig6/400/600",
+        "hook": "You've never heard it like this",
+        "caption": "Acoustic version that hits different \ud83c\udfb8",
+        "hashtags": [
+          "music",
+          "cover",
+          "acoustic"
+        ],
+        "postedAt": "2026-05-02T08:00:00Z",
+        "viralScore": 89,
+        "videoUrl": "https://instagram.com/reel/6",
+        "isBookmarked": false
+      },
+      {
+        "id": "ig7",
+        "platform": "instagram",
+        "title": "PC build under $800",
+        "author": "@techreview",
+        "views": 320000,
+        "viewsGrowth": 110,
+        "likes": 56000,
+        "shares": 15000,
+        "comments": 4100,
+        "duration": 30,
+        "category": "tech",
+        "thumbnail": "https://picsum.photos/seed/ig7/400/600",
+        "hook": "This GPU is a steal",
+        "caption": "Best budget gaming PC 2026 \ud83d\udda5\ufe0f",
+        "hashtags": [
+          "tech",
+          "pcbuild",
+          "gaming"
+        ],
+        "postedAt": "2026-05-02T06:00:00Z",
+        "viralScore": 88,
+        "videoUrl": "https://instagram.com/reel/7",
+        "isBookmarked": false
+      },
+      {
+        "id": "ig8",
+        "platform": "instagram",
+        "title": "VR gaming is getting insane",
+        "author": "@gamerhub",
+        "views": 890000,
+        "viewsGrowth": 290,
+        "likes": 178000,
+        "shares": 56000,
+        "comments": 14000,
+        "duration": 45,
+        "category": "gaming",
+        "thumbnail": "https://picsum.photos/seed/ig8/400/600",
+        "hook": "This feels too real",
+        "caption": "New VR headset is mind-blowing \ud83e\udd7d",
+        "hashtags": [
+          "gaming",
+          "vr",
+          "tech"
+        ],
+        "postedAt": "2026-05-02T05:00:00Z",
+        "viralScore": 96,
+        "videoUrl": "https://instagram.com/reel/8",
+        "isBookmarked": false
+      }
+    ],
+    "patterns": {
+      "hookTypes": [
+        {
+          "pattern": "Before/After",
+          "frequency": 31
+        },
+        {
+          "pattern": "Step-by-Step Tutorial",
+          "frequency": 25
+        },
+        {
+          "pattern": "Emotional Story",
+          "frequency": 20
+        }
+      ],
+      "captionLengths": [
+        {
+          "range": "0-50 chars",
+          "count": 34
+        },
+        {
+          "range": "51-150 chars",
+          "count": 98
+        },
+        {
+          "range": "150+ chars",
+          "count": 68
+        }
+      ],
+      "topHashtags": [
+        {
+          "tag": "#reels",
+          "count": 312
+        },
+        {
+          "tag": "#explore",
+          "count": 245
+        },
+        {
+          "tag": "#trending",
+          "count": 178
+        }
+      ],
+      "peakPostingTimes": [
+        "6-8 PM",
+        "11 AM-1 PM",
+        "8-10 AM"
+      ],
+      "averageEngagementRate": 3.2
+    }
+  },
+  "youtube": {
+    "platform": "youtube",
+    "totalGrowth": 28,
+    "trendingTopics": [
+      "tech",
+      "gaming",
+      "education",
+      "music",
+      "reviews",
+      "cooking",
+      "comedy"
+    ],
+    "videos": [
+      {
+        "id": "yt1",
+        "platform": "youtube",
+        "title": "I Tested 100 AI Tools - These 5 Changed My Life",
+        "author": "TechReviewer",
+        "views": 450000,
+        "viewsGrowth": 156,
+        "likes": 89000,
+        "shares": 23000,
+        "comments": 6700,
+        "duration": 420,
+        "category": "tech",
+        "thumbnail": "https://picsum.photos/seed/yt1/400/600",
+        "hook": "Number 3 will shock you",
+        "caption": "After testing 100 AI tools, these 5 are game-changers. \ud83e\udd2f",
+        "hashtags": [
+          "aitools",
+          "productivity",
+          "tech"
+        ],
+        "postedAt": "2026-05-02T05:45:00Z",
+        "viralScore": 95,
+        "videoUrl": "https://youtube.com/watch?v=yt1",
+        "isBookmarked": false
+      },
+      {
+        "id": "yt2",
+        "platform": "youtube",
+        "title": "Beating Elden Ring with a Dance Pad",
+        "author": "GamingChamp",
+        "views": 890000,
+        "viewsGrowth": 345,
+        "likes": 178000,
+        "shares": 45000,
+        "comments": 23000,
+        "duration": 600,
+        "category": "gaming",
+        "thumbnail": "https://picsum.photos/seed/yt2/400/600",
+        "hook": "This is the hardest challenge ever",
+        "caption": "I beat the hardest boss using only a dance pad. \ud83d\udc80",
+        "hashtags": [
+          "gaming",
+          "eldenring",
+          "challenge"
+        ],
+        "postedAt": "2026-05-02T04:30:00Z",
+        "viralScore": 99,
+        "videoUrl": "https://youtube.com/watch?v=yt2",
+        "isBookmarked": false
+      },
+      {
+        "id": "yt3",
+        "platform": "youtube",
+        "title": "Learn Python in 10 Minutes",
+        "author": "CodeAcademy",
+        "views": 678000,
+        "viewsGrowth": 234,
+        "likes": 123000,
+        "shares": 56000,
+        "comments": 8900,
+        "duration": 600,
+        "category": "education",
+        "thumbnail": "https://picsum.photos/seed/yt3/400/600",
+        "hook": "You can learn coding in a coffee break",
+        "caption": "Python tutorial for absolute beginners. \ud83d\udc0d",
+        "hashtags": [
+          "python",
+          "coding",
+          "programming"
+        ],
+        "postedAt": "2026-05-02T03:00:00Z",
+        "viralScore": 93,
+        "videoUrl": "https://youtube.com/watch?v=yt3",
+        "isBookmarked": false
+      },
+      {
+        "id": "yt4",
+        "platform": "youtube",
+        "title": "The Mathematics of Viral Videos",
+        "author": "DataSciencePro",
+        "views": 345000,
+        "viewsGrowth": 189,
+        "likes": 67000,
+        "shares": 18000,
+        "comments": 12000,
+        "duration": 840,
+        "category": "education",
+        "thumbnail": "https://picsum.photos/seed/yt4/400/600",
+        "hook": "What if I told you virality is predictable?",
+        "caption": "Using data science to predict viral trends \ud83d\udcca",
+        "hashtags": [
+          "datascience",
+          "viral",
+          "analytics"
+        ],
+        "postedAt": "2026-05-02T02:15:00Z",
+        "viralScore": 97,
+        "videoUrl": "https://youtube.com/watch?v=yt4",
+        "isBookmarked": false
+      },
+      {
+        "id": "yt5",
+        "platform": "youtube",
+        "title": "I Lived in a Van for 30 Days",
+        "author": "VanLifeVibes",
+        "views": 567000,
+        "viewsGrowth": 278,
+        "likes": 112000,
+        "shares": 34000,
+        "comments": 15000,
+        "duration": 720,
+        "category": "travel",
+        "thumbnail": "https://picsum.photos/seed/yt5/400/600",
+        "hook": "Day 1: I almost quit",
+        "caption": "Full van life documentary \ud83d\ude90",
+        "hashtags": [
+          "vanlife",
+          "travel",
+          "adventure"
+        ],
+        "postedAt": "2026-05-02T01:00:00Z",
+        "viralScore": 96,
+        "videoUrl": "https://youtube.com/watch?v=yt5",
+        "isBookmarked": false
+      },
+      {
+        "id": "yt6",
+        "platform": "youtube",
+        "title": "How to Make $10k/Month with AI",
+        "author": "MoneyMentor",
+        "views": 234000,
+        "viewsGrowth": 456,
+        "likes": 45000,
+        "shares": 12000,
+        "comments": 8900,
+        "duration": 540,
+        "category": "tech",
+        "thumbnail": "https://picsum.photos/seed/yt6/400/600",
+        "hook": "This is not clickbait",
+        "caption": "Complete guide to making money with AI in 2026 \ud83d\udcb0",
+        "hashtags": [
+          "makemoney",
+          "ai",
+          "sidehustle"
+        ],
+        "postedAt": "2026-05-02T00:30:00Z",
+        "viralScore": 91,
+        "videoUrl": "https://youtube.com/watch?v=yt6",
+        "isBookmarked": false
+      },
+      {
+        "id": "yt7",
+        "platform": "youtube",
+        "title": "Top 10 Cooking Mistakes",
+        "author": "ChefMaster",
+        "views": 876000,
+        "viewsGrowth": 210,
+        "likes": 150000,
+        "shares": 67000,
+        "comments": 18000,
+        "duration": 900,
+        "category": "cooking",
+        "thumbnail": "https://picsum.photos/seed/yt7/400/600",
+        "hook": "You're doing #4 right now",
+        "caption": "Avoid these common kitchen errors \ud83c\udf73",
+        "hashtags": [
+          "cooking",
+          "tips",
+          "kitchen"
+        ],
+        "postedAt": "2026-05-02T00:00:00Z",
+        "viralScore": 94,
+        "videoUrl": "https://youtube.com/watch?v=yt7",
+        "isBookmarked": false
+      },
+      {
+        "id": "yt8",
+        "platform": "youtube",
+        "title": "Funny Cats Compilation 2026",
+        "author": "FunnyAnimals",
+        "views": 2300000,
+        "viewsGrowth": 520,
+        "likes": 500000,
+        "shares": 200000,
+        "comments": 35000,
+        "duration": 480,
+        "category": "comedy",
+        "thumbnail": "https://picsum.photos/seed/yt8/400/600",
+        "hook": "The last one will make you cry laughing",
+        "caption": "Cats being hilarious for 8 minutes straight \ud83d\ude39",
+        "hashtags": [
+          "cats",
+          "funny",
+          "compilation"
+        ],
+        "postedAt": "2026-05-01T23:00:00Z",
+        "viralScore": 98,
+        "videoUrl": "https://youtube.com/watch?v=yt8",
+        "isBookmarked": false
+      }
+    ],
+    "patterns": {
+      "hookTypes": [
+        {
+          "pattern": "List/Countdown",
+          "frequency": 40
+        },
+        {
+          "pattern": "Challenge Video",
+          "frequency": 18
+        },
+        {
+          "pattern": "Review/Commentary",
+          "frequency": 25
+        }
+      ],
+      "captionLengths": [
+        {
+          "range": "0-50 chars",
+          "count": 20
+        },
+        {
+          "range": "51-150 chars",
+          "count": 56
+        },
+        {
+          "range": "150+ chars",
+          "count": 124
+        }
+      ],
+      "topHashtags": [
+        {
+          "tag": "#shorts",
+          "count": 189
+        },
+        {
+          "tag": "#viral",
+          "count": 145
+        },
+        {
+          "tag": "#trending",
+          "count": 134
+        }
+      ],
+      "peakPostingTimes": [
+        "2-4 PM",
+        "6-8 PM",
+        "10 AM-12 PM"
+      ],
+      "averageEngagementRate": 5.1
+    }
+  }
+}
